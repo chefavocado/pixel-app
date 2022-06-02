@@ -1,0 +1,142 @@
+.colour {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 25px;
+  margin: auto;
+  border: 3px solid;
+}
+
+.colour__two {
+  height: 2rem;
+  width: 2rem;
+  border-radius: 25px;
+  margin: auto;
+  border: 3px dashed rgb(0, 0, 0);
+}
+
+.colour:hover {
+  opacity: 50%;
+  transition: .3s;
+  height: 2.5rem;
+  width: 2.5rem;
+}
+/* 
+.colour--blue {
+  height: 2rem;
+  width: 2rem;
+  background-color: blue;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--black {
+  height: 2rem;
+  width: 2rem;
+  background-color: black;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--gray {
+  height: 2rem;
+  width: 2rem;
+  background-color: grey;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--pink {
+  height: 2rem;
+  width: 2rem;
+  background-color: pink;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--white {
+  height: 2rem;
+  width: 2rem;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--green {
+  height: 2rem;
+  width: 2rem;
+  background-color: green;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--red {
+  height: 2rem;
+  width: 2rem;
+  background-color: red;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--yellow {
+  height: 2rem;
+  width: 2rem;
+  background-color: yellow;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--orange {
+  height: 2rem;
+  width: 2rem;
+  background-color: orange;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--turquoise {
+  height: 2rem;
+  width: 2rem;
+  background-color: turquoise;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--purple {
+  height: 2rem;
+  width: 2rem;
+  background-color: purple;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--brown {
+  height: 2rem;
+  width: 2rem;
+  background-color: brown;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--beige {
+  height: 2rem;
+  width: 2rem;
+  background-color: beige;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--violet {
+  height: 2rem;
+  width: 2rem;
+  background-color: blueviolet;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+}
+
+.colour--lime {
+  height: 2rem;
+  width: 2rem;
+  background-color: lime;
+  border-radius: 20px;
+  margin-top: 1.5rem;
+} */

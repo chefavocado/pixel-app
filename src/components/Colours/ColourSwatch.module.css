@@ -1,0 +1,7 @@
+.swatch {
+  display: flex;
+  background-color: transparent;
+  height: 5rem;
+  width: 30rem;
+  margin: auto;
+}
