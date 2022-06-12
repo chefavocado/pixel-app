@@ -6,9 +6,9 @@ Inspired by r/place, I built my own project that allows a user to create and dow
 
 ## What I Learned
 
-In this project I incorporated CSS Grid for the first time. I hard coded all the CSS responsible for the styling of the grid and pixels which wasn't the best approach as the grid contains 100 divs total. If I were to rebuild this project in the future, I would use a loop to assign the styling to each grid div dynamically instead. Styled Components would also be a great approach for flexibile grib/pixel styling. 
+In this project I incorporated CSS Grid for the first time. I hard coded all the CSS responsible for the styling of the grid and pixels which wasn't the best approach as the grid contains 100 divs total. If I were to rebuild this project in the future, I would use a loop to assign the styling to each grid div dynamically instead. Styled Components would also be a great approach for flexibile grid/pixel styling. 
 
-I levaraged a library for the first time. I installed HTML2Canvas to assist with the logic responsible for croping and downloading the pixel picture which was pretty neat! 
+I levaraged a library for the first time. I installed HTML2Canvas to assist with the logic responsible for croping and downloading the pixel picture which was pretty neat! By using this library I also got some additional practice with the useRef hook to access the grid imperitively. 
 
 This is also my first React project that included a dark mode button as I wanted to get some more practice with the ternary operator and dynamically changing component styles via the virtual DOM. 
 
