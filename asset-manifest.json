@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pixel-app/static/css/main.b543e1d4.css",
-    "main.js": "/pixel-app/static/js/main.1b045d28.js",
-    "index.html": "/pixel-app/index.html",
-    "main.b543e1d4.css.map": "/pixel-app/static/css/main.b543e1d4.css.map",
-    "main.1b045d28.js.map": "/pixel-app/static/js/main.1b045d28.js.map"
+    "main.css": "/pixel-pictures/static/css/main.b543e1d4.css",
+    "main.js": "/pixel-pictures/static/js/main.1b045d28.js",
+    "index.html": "/pixel-pictures/index.html",
+    "main.b543e1d4.css.map": "/pixel-pictures/static/css/main.b543e1d4.css.map",
+    "main.1b045d28.js.map": "/pixel-pictures/static/js/main.1b045d28.js.map"
   },
   "entrypoints": [
     "static/css/main.b543e1d4.css",
